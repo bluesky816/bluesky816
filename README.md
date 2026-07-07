@@ -1,6 +1,4 @@
 
-
-<h1>Senior Blockchain and AI developer</h1>
 <table align="center">
   <tr>
     <td align="center" width="96">
