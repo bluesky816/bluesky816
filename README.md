@@ -1,8 +1,6 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc%20&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
-</p>
 
 
+<h1>Senior Blockchain and AI developer</h1>
 <table align="center">
   <tr>
     <td align="center" width="96">
